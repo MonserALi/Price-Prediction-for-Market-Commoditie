@@ -17,7 +17,7 @@ This project focuses on predicting commodity prices using a multiple regression 
 
 ## 🗂 Dataset Description
 
-The dataset includes the following columns:
+The dataset after clealing and preprocessing includes the following columns:
 
 | Feature        | Description                                  |
 |----------------|----------------------------------------------|
