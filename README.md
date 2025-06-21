@@ -57,4 +57,4 @@ The dataset after clealing and preprocessing includes the following columns:
    - Use `StandardScaler` and `Ridge` in a pipeline.
 
 4. **Evaluation**
-   - Metrics: Mean Squared Error (MSE), R² Score.
+   - Metrics: Mean Squared Error (MSE), R² Score etc.
